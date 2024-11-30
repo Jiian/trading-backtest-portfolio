@@ -10,6 +10,8 @@ From the point of view of an asset-management entity, the goal is to maximise th
 2. Only long positions are allowed.
 3. Rebalancing is allowed only when a trading signal is triggered.
 4. Backtest for the years 1981 to 2023 inclusive.
+5. Daily level price data.
+6. Evaluate signal post-market, react on market-open.
 
 ### Financial Parameters
 All parameters are contained within the `./config.py` file.
@@ -172,6 +174,7 @@ All parameters are contained within the `./config.py` file.
         <td>0.1251</td>
         <td>0.0062</td>
         <td>0.0317</td>
+        <td>0.1039</td>
     </tr>
     <tr>
         <td>Annualised Volatility</td>
@@ -179,6 +182,7 @@ All parameters are contained within the `./config.py` file.
         <td>0.2163</td>
         <td>0.0142</td>
         <td>0.0827</td>
+        <td>0.1797</td>
     </tr>
     <tr>
         <td>Maximum Drawdown</td>
@@ -186,6 +190,7 @@ All parameters are contained within the `./config.py` file.
         <td>0.4885</td>
         <td>0.0631</td>
         <td>0.2757</td>
+        <td>0.5678</td>
     </tr>
     <tr>
         <td>Sharpe Ratio</td>
@@ -193,6 +198,7 @@ All parameters are contained within the `./config.py` file.
         <td>0.4527</td>
         <td>-0.9762</td>
         <td>0.1354</td>
+        <td>0.4391</td>
     </tr>
     <tr>
         <td>Sortino Ratio</td>
@@ -200,6 +206,7 @@ All parameters are contained within the `./config.py` file.
         <td>0.7331</td>
         <td>-1.4788</td>
         <td>0.2158</td>
+        <td>0.6841</td>
     </tr>
     <tr>
         <td>Total Number of Trades</td>
