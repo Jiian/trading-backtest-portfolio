@@ -163,7 +163,7 @@ All parameters are contained within the `./config.py` file.
     <tr>
         <td>Total Return</td>
         <td>1.8662</td>
-        <td>56.8983</td>
+        <td><b>56.8983</b></td>
         <td>0.2976</td>
         <td>2.2947</td>
         <td>33.9848</td>
@@ -171,7 +171,7 @@ All parameters are contained within the `./config.py` file.
     <tr>
         <td>Annualised Return</td>
         <td>0.0486</td>
-        <td>0.1251</td>
+        <td><b>0.1251</b></td>
         <td>0.0062</td>
         <td>0.0317</td>
         <td>0.1039</td>
@@ -180,7 +180,7 @@ All parameters are contained within the `./config.py` file.
         <td>Annualised Volatility</td>
         <td>0.2143</td>
         <td>0.2163</td>
-        <td>0.0142</td>
+        <td><b>0.0142</b></td>
         <td>0.0827</td>
         <td>0.1797</td>
     </tr>
@@ -188,14 +188,14 @@ All parameters are contained within the `./config.py` file.
         <td>Maximum Drawdown</td>
         <td>0.6484</td>
         <td>0.4885</td>
-        <td>0.0631</td>
+        <td><b>0.0631</b></td>
         <td>0.2757</td>
         <td>0.5678</td>
     </tr>
     <tr>
         <td>Sharpe Ratio</td>
         <td>0.1280</td>
-        <td>0.4527</td>
+        <td><b>0.4527</b></td>
         <td>-0.9762</td>
         <td>0.1354</td>
         <td>0.4391</td>
@@ -203,22 +203,22 @@ All parameters are contained within the `./config.py` file.
     <tr>
         <td>Sortino Ratio</td>
         <td>0.2012</td>
-        <td>0.7331</td>
+        <td><b>0.7331</b></td>
         <td>-1.4788</td>
         <td>0.2158</td>
         <td>0.6841</td>
     </tr>
     <tr>
         <td>Total Number of Trades</td>
-        <td>1504</td>
-        <td>1437</td>
+        <td>1,504</td>
+        <td>1,437</td>
         <td>833</td>
         <td>754</td>
     </tr>
     <tr>
         <td>Average Return per Trade</td>
         <td>0.0012</td>
-        <td>0.0396</td>
+        <td><b>0.0396</b></td>
         <td>0.0004</td>
         <td>0.0030</td>
     </tr>
@@ -226,15 +226,15 @@ All parameters are contained within the `./config.py` file.
         <td>Win Rate</td>
         <td>0.6918</td>
         <td>0.7519</td>
-        <td>0.7970</td>
+        <td><b>0.7970</b></td>
         <td>0.6305</td>
     </tr>
     <tr>
         <td>Expectancy</td>
-        <td>6009</td>
-        <td>211358</td>
-        <td>2237</td>
-        <td>9215</td>
+        <td>6,009</td>
+        <td><b>211,358</b></td>
+        <td>2,237</td>
+        <td>9,215</td>
     </tr>
 </table>
 
