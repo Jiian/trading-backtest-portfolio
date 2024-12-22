@@ -1,4 +1,4 @@
-# backtest-momentum-trading
+# trading-backtest-portfolio
 
 This repository stores the codes to backtest several momentum-based trading strategies.
 
